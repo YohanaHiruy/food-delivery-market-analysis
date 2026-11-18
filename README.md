@@ -5,18 +5,14 @@ I did an Exploratory data analysis of 8,000 food orders across 12 global cities,
 ## 🔑 Key Findings
 - ⏱️ **Peak hours add about 43% to delivery time:** about 44 min vs 31 min off-peak, with ratings dropping from 4.30 to 4.12.
 - 🌧️ **Storms make it worse:** heavy rain orders took about 43 min vs 35 in clear weather and rated 3.86 vs 4.27. Storm plus peak hour was the worst case at about 55 min.
-- 📉 **Ratings fall off a cliff after 60 minutes:** about 4.35 under 40 min, but only 3.19 above 60 min (about 8% of deliveries).
-- 💸 **Discounts don't improve ratings** (correlation about 0).
 - 🍽️ **Delivery earns restaurants less:** about $9.57 per order vs $13.94 for dine-in (32% of sales vs 46%), even though order size and discounts are similar.
 - ⚠️ **Tiny orders lose money:** all 91 loss-making orders are delivery orders under about $4.10, where the delivery fee is larger than the food.
 
 ## 📌Questions Asked
 1. Does peak hour slow deliveries?
 2. How much does weather hurt delivery time and ratings?
-3. What is associated with lower customer ratings?
-4. Which order channel earns restaurants the most?
-5. Do cities and cuisines differ?
-6. Which orders lose money, and why?
+3. Do cities and cuisines differ?
+4. Which orders lose money, and why?
 
 ## 📂 Dataset
 | | |
