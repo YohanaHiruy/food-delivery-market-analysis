@@ -10,7 +10,7 @@ I did an Exploratory data analysis of 8,000 food orders across 12 global cities,
 - 🍽️ **Delivery earns restaurants less:** about $9.57 per order vs $13.94 for dine-in (32% of sales vs 46%), even though order size and discounts are similar.
 - ⚠️ **Tiny orders lose money:** all 91 loss-making orders are delivery orders under about $4.10, where the delivery fee is larger than the food.
 
-## 📌 Business Questions
+## 📌Questions Asked
 1. Does peak hour slow deliveries?
 2. How much does weather hurt delivery time and ratings?
 3. What is associated with lower customer ratings?
@@ -71,18 +71,4 @@ Python · pandas · matplotlib · Jupyter Notebook
 - Correlation is not causation; time, distance, and fees are related to each other.
 - City and cuisine differences are small and may be noise.
 
-## 📁 Files
-- `food_delivery_analysis.ipynb`: full analysis notebook
-- `global_food_delivery_enriched_market_2026.csv`: dataset
-- `*.png`: charts used above
-
-## ▶️ How to Run
-```bash
-git clone https://github.com/YohanaHiruy/food-delivery-market-analysis
-cd food-delivery-market-analysis
-pip install pandas matplotlib jupyter
-jupyter notebook food_delivery_analysis.ipynb
-```
-
----
 📫 [LinkedIn](https://www.linkedin.com/in/yohana-hiruy-55b225380) • [Email](mailto:johanhgf5@gmail.com)
