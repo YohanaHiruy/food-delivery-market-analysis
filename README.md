@@ -61,7 +61,7 @@ Python · pandas · matplotlib · Jupyter Notebook
 ## ✅ Recommendations
 - Plan courier and kitchen capacity for peak hours, especially stormy peaks.
 - Aim to keep deliveries under 60 minutes, and show realistic estimates in bad weather.
-- Don't rely on discounts to improve satisfaction. Faster service is a better lever.
+- Don't rely on discounts to improve satisfaction. Faster service is a better.
 - Consider a minimum order value or small-order fee for orders under about $5 (test first, since the margin formula is not provided).
 
 ## ⚠️ Limitations
