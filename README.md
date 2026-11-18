@@ -1,6 +1,6 @@
 # Food Delivery Market 2026: What Drives Delivery Time, Ratings, and Restaurant Margin
 
-> Exploratory data analysis of 8,000 food orders across 12 global cities, answering what slows deliveries, what customers rate poorly, and where restaurants make or lose money.
+I did an Exploratory data analysis of 8,000 food orders across 12 global cities, answering what slows deliveries, what customers rate poorly, and where restaurants make or lose money.
 
 ## 🔑 Key Findings
 - ⏱️ **Peak hours add about 43% to delivery time:** about 44 min vs 31 min off-peak, with ratings dropping from 4.30 to 4.12.
