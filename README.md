@@ -48,12 +48,6 @@ Python · pandas · matplotlib · Jupyter Notebook
 
 ![Margin by order size](margin_by_order_size.png)
 
-<!-- After you add the missing notebook cells and create these two charts, delete this line and the closing line:
-![Rating by delivery time](rating_by_time.png)
-
-![Margin by channel](margin_by_channel.png)
--->
-
 ## ✅ Recommendations
 - Plan courier and kitchen capacity for peak hours, especially stormy peaks.
 - Aim to keep deliveries under 60 minutes, and show realistic estimates in bad weather.
@@ -64,7 +58,6 @@ Python · pandas · matplotlib · Jupyter Notebook
 - Synthetic dataset, so results may not match real markets.
 - Margin is an estimate and its formula is not given.
 - "Peak hour" is not defined in the dataset.
-- Correlation is not causation; time, distance, and fees are related to each other.
 - City and cuisine differences are small and may be noise.
 
 📫 [LinkedIn](https://www.linkedin.com/in/yohana-hiruy-55b225380) • [Email](mailto:johanhgf5@gmail.com)
